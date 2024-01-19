@@ -4,7 +4,7 @@ SRE Coding Challenge Submission for Fetch
 
 ## Running this project
 
-1. Download this repo
+1. Download this repo (run command `gh repo clone Vosty/FetchProject` in some folder)
      
 2. Install node.js (https://nodejs.org/en/download). Make sure node exists on your PATH
 
